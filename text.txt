@@ -1,0 +1,4 @@
+Hello World! This is a sample text file.
+It contains 123 numbers, punctuation marks like: .,?! and uppercase/lowercase letters.
+Let's see how many uppercase (A-Z) and lowercase (a-z) characters it counts.
+There are also digits like 456 and 7890.
